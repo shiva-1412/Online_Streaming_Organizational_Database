@@ -1,0 +1,66 @@
+INSERT INTO rating (User_id, Ratings, Reviews, Content_id) VALUES
+(1, 4, 'Great movie', 1),
+(2, 3, 'Okay documentary', 13),
+(3, 2, 'Disappointing ending', 15),
+(4, 5, 'Amazing show', 29),
+(5, 4, 'Really enjoyed this', 21),
+(6, 1, 'Not my cup of tea', 18),
+(1, 3, 'Decent watch', 27),
+(2, 4, 'Highly recommend', 12),
+(3, 2, 'Expected more', 23),
+(4, 5, 'One of the best I have seen', 30),
+(5, 4, 'Good movie overall', 16),
+(6, 3, 'Solid performance by the actors', 35),
+(1, 1, 'Waste of time', 38),
+(2, 4, 'Great cinematography', 14),
+(3, 3, 'Interesting plot', 31),
+(4, 2, 'Not what I expected', 19),
+(5, 5, 'Absolutely loved it', 26),
+(6, 4, 'Definitely worth watching', 40),
+(1, 2, 'Didn''t live up to the hype', 22),
+(2, 3, 'Entertaining show', 34);
+commit;
+INSERT INTO rating (User_id, Ratings, Reviews, Content_id) VALUES
+(1, 5, 'Great content!', 17),
+(2, 4, 'Good read', 20),
+(3, 3, 'Needs improvement', 24),
+(4, 2, 'Not what I expected', 28),
+(5, 5, 'Excellent work', 31),
+(6, 4, 'Interesting insights', 35),
+(1, 3, 'Meh', 39),
+(2, 4, 'Liked it', 13),
+(3, 2, 'Disappointing', 14),
+(4, 5, 'Really enjoyed this', 21),
+(5, 1, 'Waste of time', 23),
+(6, 4, 'Well written', 26),
+(1, 2, 'Could be better', 29),
+(2, 5, 'Impressed', 32),
+(3, 4, 'Good stuff', 36),
+(4, 3, 'Decent article', 37),
+(5, 2, 'Needs more depth', 15),
+(6, 5, 'Brilliant!', 16),
+(1, 4, 'Informative', 19),
+(2, 3, 'Average', 22);
+commit;
+INSERT INTO rating (User_id, Ratings, Reviews, Content_id) VALUES
+(1, 3, 'This was okay', 25),
+(2, 4, 'I really enjoyed this', 26),
+(3, 2, 'Not my favorite', 27),
+(4, 5, 'This was amazing!', 28),
+(5, 4, 'Really informative', 29),
+(6, 3, 'Could be better', 30),
+(1, 5, 'Loved it!', 31),
+(2, 3, 'Interesting topic', 32),
+(3, 1, 'Disappointing', 33),
+(4, 4, 'Great read', 34),
+(5, 2, 'Could have been more detailed', 35),
+(6, 4, 'Thoroughly enjoyed this', 36),
+(1, 4, 'Worth a read', 37),
+(2, 5, 'Highly recommend', 38),
+(3, 3, 'Decent enough', 39);
+commit;
+INSERT INTO rating (User_id, Ratings, Reviews, Content_id) VALUES
+(5, 4, 'Great content!', 27),
+(2, 2, 'Could be better.', 38),
+(1, 5, 'Loved it!', 21);
+commit;
